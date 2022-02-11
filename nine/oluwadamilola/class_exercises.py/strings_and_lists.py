@@ -4,11 +4,7 @@ class_b = ['Chinonso', 'Adetunji', 'Oluwadamilola', 'Lotachi', 'Ademiju']
 # classes = [class_a, class_b]
 # for i in range (len(classes)):
 #     for j in range (len(classes[i])):
-#         length = len(classes[i])
-
 # class_a.extend(class_b)
-# print(class_a)
-# print(max(class_a, key= len))
 
 longest_name_in_class_a = 0
 longest_name_in_class_b = 0
